@@ -9,15 +9,6 @@ This project implements a **real-time hand gesture recognition system** using **
 - **OpenCV** (For image processing and real-time video capture)
 - **NumPy** (For numerical computations)
 
-## 📂 Project Structure
-```
-Hand-Gesture-Recognition/
-│── images/                    # Sample gesture images
-│── models/                    # (Optional) Custom trained models
-│── yolo.py                     # Main script for detection
-│── requirements.txt            # Dependencies
-│── README.md                   # Project documentation
-```
 
 ## 🎯 Features
 ✅ **Real-time hand tracking** using **MediaPipe**  
